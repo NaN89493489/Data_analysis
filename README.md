@@ -19,7 +19,7 @@
 - pandas
 - numpy
 - json
-- sklearn.cluster
+- sklearn
 - umap
 - seaborn
 - matplotlib
@@ -60,6 +60,7 @@ python main.py
 - **cluster_data.csv** — данные с присвоенными кластерами
 - **cluster_plt.png** — график кластеризации терминов
 - **metric_plt.png** — график распределения метрик по кластерам
+
 
 
 
