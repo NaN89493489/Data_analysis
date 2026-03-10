@@ -18,10 +18,12 @@
 
 - pandas
 - numpy
-- scikit-learn
-- umap-learn
+- json
+- sklearn.cluster
+- umap
 - seaborn
 - matplotlib
+- os
 
 ### UMAP
 Алгоритм UMAP используется для снижения размерности векторного пространства и получения двумерных координат для каждого термина.
@@ -58,6 +60,7 @@ python main.py
 - **cluster_data.csv** — данные с присвоенными кластерами
 - **cluster_plt.png** — график кластеризации терминов
 - **metric_plt.png** — график распределения метрик по кластерам
+
 
 
 
